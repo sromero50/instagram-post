@@ -1,0 +1,54 @@
+body{
+    background-color: black;
+    margin: 0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+
+
+.post{
+    background-color: white;
+    width:600px;
+    margin:auto;
+}
+
+.post-header{
+
+display: flex;
+align-items: center;
+height: 50px;
+padding: 10px;
+}
+
+
+
+.nombres {
+    margin-left: 5px;
+}
+
+h4{
+    margin:0;
+    font-weight: bold;
+}
+h5{
+    margin:0;
+}
+
+.opciones {
+margin-left: 470px;
+}
+
+img{
+    width: 100%;
+}
+
+.body-post{
+    padding: 10px 10px 25px 10px;
+}
+
+.bookmark {
+    float: right;
+    text-decoration: none;
+}
+
